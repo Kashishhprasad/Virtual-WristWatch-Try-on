@@ -2,11 +2,11 @@
 
 A browser-based Augmented Reality (AR) application that enables users to virtually try on wristwatches in real time using their webcam. Powered by TensorFlow.js, Canvas API, and hand detection, this app provides a seamless, interactive, and responsive try-on experience—right from your browser.
 
- ##Overview
+ ## Overview
  
 This project utilizes machine learning-based hand detection and dynamic image overlay techniques to simulate a virtual wristwatch try-on feature. The app is completely client-side, ensuring privacy and performance, and is built using HTML, JavaScript, Tailwind CSS, and TensorFlow.js Handpose model.
 
- ##Features
+ ## Features
  
  Real-Time Hand/Wrist Detection
  
@@ -66,7 +66,7 @@ Open index.html in a web browser (preferably Chrome).
 
  No backend or additional setup required.
 
- ##Screenshots:
+ ## Screenshots:
 
 Real-time wrist detection with watch overlay
 
