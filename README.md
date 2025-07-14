@@ -70,6 +70,4 @@ Open index.html in a web browser (preferably Chrome).
 
 Real-time wrist detection with watch overlay
 
-Watch gallery with background-removed previews
-
-Responsive layout on desktop and mobile
+Responsive layout on desktop
